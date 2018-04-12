@@ -7,3 +7,7 @@ Practice guide for software engineer
 
 ## Operating System操作系统<br>
 [CentOS7](https://github.com/dennishucd/centos7guide)
+
+
+## Bigdata大数据<br>
+[Kafka](https://github.com/dennishucd/kafkaguide)
