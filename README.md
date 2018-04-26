@@ -2,7 +2,8 @@
 Practice guide for software engineer
 
 ## Database数据库<br>
-[MongoDB](https://github.com/dennishucd/mongodbguide)
+[MongoDB](https://github.com/dennishucd/mongodbguide)<br>
+[PostgreSQL](https://github.com/dennishucd/postgresql)
 
 
 ## Operating System操作系统<br>
