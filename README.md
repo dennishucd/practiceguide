@@ -11,7 +11,8 @@ Practice guide for software engineer
 
 
 ## Bigdata大数据<br>
-[Kafka](https://github.com/dennishucd/kafkaguide)
+[Kafka](https://github.com/dennishucd/kafkaguide)<br>
+[HBase](https://github.com/dennishucd/hbaseguide)
 
 
 ## License
